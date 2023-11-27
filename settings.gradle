@@ -1,0 +1,5 @@
+rootProject.name = 'demo-spring-websocket-stomp'
+include 'client'
+include 'server'
+include 'common'
+
